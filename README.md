@@ -8,7 +8,6 @@
     <em><code>🐾 A Community-Driven Initiative to Support Stray Animals through Donations 🐾</code></em>
 </p>
 <p align="center">
-    <b>CS-2202</b><br>
     <a href="https://github.com/trishncl">Trisha Nicole L. Sañosa</a><br>
     <b>IT-2104</b>
 </p>
@@ -34,7 +33,7 @@
 
 ##  Project Overview
 
-**Paws for a Cause** is a console-based application aimed at supporting stray animals through donations and fostering collaboration with animal welfare organizations. The platform simplifies the process of collecting and managing donations while aligning with goals of promoting compassion for animals and inspiring collective action.
+`Paws for a Cause` is a console-based application aimed at supporting stray animals through donations and fostering collaboration with animal welfare organizations. The platform simplifies the process of collecting and managing donations while aligning with goals of promoting compassion for animals and inspiring collective action.
 
 This platform connects donors with organizations, enabling profile creation, donation management, and history tracking. Admin can oversee and manage user profiles and donation records effectively.
 
@@ -117,7 +116,6 @@ The system uses SQL functions in the following ways:
 1. Start **XAMPP** and ensure both **Apache** and **MySQL** are running.  
   ⚠ **Note:** These services must be active while running the program.
 2. Connect VSCode to SQL using the SQLTools extension:  
-  ```java
   url: "jdbc:mysql://localhost:3306/your_database_name"
   username: "root"
   password: "your_password" // Leave empty if not set
