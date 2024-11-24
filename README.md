@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="100" />
+  <img src="" width="100" />
 </p>
 
 <h1 align="center">Paws for a Cause</h1>
@@ -10,8 +10,10 @@
 
 <p align="center">
     <a href="https://github.com/trishncl">Trisha Nicole L. Sañosa</a><br>
-    <b>IT-2104</b>
+    IT-2104
 </p>
+
+---
 
 <details>
   <summary><strong>Table of Contents<strong></summary>
