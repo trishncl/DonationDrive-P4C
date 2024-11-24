@@ -1,17 +1,17 @@
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" width="100" />
 </p>
-<p align="center">
-    <h1 align="center">Paws for a Cause</h1>
-</p>
+
+<h1 align="center">Paws for a Cause</h1>
+
 <p align="center">
     <em><code>🐾 A Community-Driven Initiative to Support Stray Animals through Donations 🐾</code></em>
 </p>
+
 <p align="center">
     <a href="https://github.com/trishncl">Trisha Nicole L. Sañosa</a><br>
     <b>IT-2104</b>
 </p>
-<hr>
 
 <details>
   <summary><strong>Table of Contents<strong></summary>
@@ -41,13 +41,19 @@ This platform connects donors with organizations, enabling profile creation, don
 
 ## Problem Statement: Chosen SDG
 
-Stray animals often lack access to food, shelter, and medical care due to limited funding or resources. While there are many who wish to help, there is no central platform to connect donors with organizations or track how their contributions are used effectively. **Paws for a Cause** addresses this issue by aligning with the following Sustainable Development Goals (SDGs):
-1. **SDG 3: Good Health and Well-being**  
-   - Donations support medical care for stray animals, such as vaccinations and treatments.  
-2. **SDG 15: Life on Land**  
-   - Contributions help protect stray animals, ensuring they receive necessities like food and shelter.  
+Stray animals often lack access to food, shelter, and medical care due to limited funding or resources. While there are many who wish to help, there is no central platform to connect donors with organizations or track how their contributions are used effectively. **Paws for a Cause** addresses this issue by aligning with the following Sustainable Development Goals (SDGs):  
 
-![SDG 3](resources/SDG3.jpg) ![SDG 15](resources/SDG15.png)
+<p>
+  <img src="resources/SDG3.jpg" alt="SDG 3" width="150" />  
+  <br>
+  <em>SDG 3: Supporting the health and well-being of stray animals.</em>
+</p>
+
+<p>
+  <img src="resources/SDG15.png" alt="SDG 15" width="150" />  
+  <br>
+  <em>SDG 15: Protecting life on land through improved care for stray animals.</em>
+</p>
 
 ---
 
@@ -120,7 +126,7 @@ The system uses SQL functions in the following ways:
   url: "jdbc:mysql://localhost:3306/your_database_name"
   username: "root"
   password: "your_password" // Leave empty if not set
-  ```java
+  ```
 3. Verify that the database is set up and properly connected.
 4. Open 'Main.java' in VSCode, and compile the project using the 'javac' command or the Run button.
 5. Use the program interface to log in as either a **Donor** or **Admin** and access the system's features.
